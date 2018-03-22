@@ -2,7 +2,7 @@
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// comentario desde github
 		System.out.println("Hola mundo");
 	}
 
